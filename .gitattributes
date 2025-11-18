@@ -1,0 +1,5 @@
+*.pem  -text
+*.key  -text
+*.crt  -text
+*.cer  -text
+*.pub  -text
