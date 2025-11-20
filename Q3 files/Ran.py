@@ -12,13 +12,7 @@ from cryptography.fernet import Fernet
 # ===========================
 PUBLIC_KEY_DATA = b"""
 -----BEGIN PUBLIC KEY-----
-MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzj4Rr3Vwuzpi8sdaByt9
-zM/e6ofXuHe4xUXIPlQlTZlLvRkcHbH8SZ58fofygPPxmtgCUJDNKshaqC6zUXi3
-3IsFB1jFZkXE6WdKWhbW81UJlmBx75OTcIJLhIuBtdPmMBWKcGd5kiJcBsPHmDl8
-m9I1InXd3XlExl/WqjVBD0jfV+7nbd1tJffTuv1ieQHMhiaISbaOkBXoOaa+5tFE
-zwQ9F5U11uHYyu32Boze27Faxx6Mb7fm8Q1Pk2jbpcGzaa+AS2eHZsMdzKMpbqfv
-AYTEbABz11VHEMSkPBXLFXchwwZV3QT4UMxGRdDWeqbOfGHfAwZ3TQonUZWiZEqt
-6wIDAQAB
+#  PUT enc.key CONTENT HERE
 -----END PUBLIC KEY-----
 """
 
